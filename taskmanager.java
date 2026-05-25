@@ -1,6 +1,6 @@
 import java.util.ArrayList;
-  import java.util.List;
+import java.util.List;
 
   public class TaskManager{
-      private List<Task> taskList = new ArrayList<>();
+    protected List<Task> taskList = new ArrayList<>();
   }
